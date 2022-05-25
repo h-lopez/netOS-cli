@@ -6,11 +6,14 @@ may work with other OS as well
 
 highlights interfaces, IPv4/v6 addresses/subnets, MAC addresses and contextual keywords
 
-cisco IOS
-[https://i.imgur.com/LaJmjfe.png]
+Cisco IOS-XR
 
-junos
-[https://i.imgur.com/cNxhFHS.png]
+![IOS-XR](https://i.imgur.com/LaJmjfe.png)
 
-vyos
-[https://i.imgur.com/7TwiqwU.png]
+Juniper Junos
+
+![Junos](https://i.imgur.com/cNxhFHS.png)
+
+VyOS
+
+![VyOS](https://i.imgur.com/7TwiqwU.png)
