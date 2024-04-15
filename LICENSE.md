@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2022 Hugo A. Lopez
+Copyright (c) 2024, Hugo A. Lopez <95hlopez@gmail.com>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
